@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/610796b2-0e67-44b3-820e-b7ee9ce3e63a
+
 <div align="center">
   <img src="images/ufo.png" alt="UFO Research Banner" width="100%">
 
@@ -27,11 +31,7 @@ This repository serves as a centralized hub for UFO enthusiasts, researchers, an
 ## 🎥 Video Evidence
 Below is a featured piece of documented footage from official archives.
 
-<div align="center">
-  <video src="https://github.com/huynh044/UFO/raw/main/videos/DOD_111688723.mp4" width="85%" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://github.com/user-attachments/assets/d23484b4-c1da-41f0-ae68-ea04f6999451
 
 ## 🖼️ Visual Gallery
 A collection of visual evidence captured during various sightings.
