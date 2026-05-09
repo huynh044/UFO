@@ -1,9 +1,6 @@
 
-
-https://github.com/user-attachments/assets/610796b2-0e67-44b3-820e-b7ee9ce3e63a
-
 <div align="center">
-  <img src="images/ufo.png" alt="UFO Research Banner" width="100%">
+  <img src="images/ufo.png" alt="UFO Research Banner" width="80%">
 
   # 🛸 UFO PHENOMENA ARCHIVE
   
@@ -18,7 +15,7 @@ https://github.com/user-attachments/assets/610796b2-0e67-44b3-820e-b7ee9ce3e63a
 ---
 
 ## 📝 Overview
-This repository serves as a centralized hub for UFO enthusiasts, researchers, and investigators. It contains a curated selection of visual evidence, high-resolution documentation, and structured research data regarding anomalous aerial phenomena. Our mission is to preserve and organize documented sightings for open-source analysis.
+This repository serves as a centralized hub for UFO enthusiasts, researchers, and investigators. It contains a curated selection of visual evidence, high-resolution documentation, and structured research data regarding anomalous aerial phenomena. Our mission is to preserve and organize documented sightings for open-source analysis. Link [☁️ Google Drive Cloud Archive](https://drive.google.com/drive/folders/1iHlmKCDCoaw8Ehm-t9OXC7WsC10czZBi?usp=sharing) - Extended repository of research documents, reports, and multimedia.
 
 ## 📂 Project Structure
 ```text
@@ -47,7 +44,6 @@ A collection of visual evidence captured during various sightings.
 ## 📊 Research & Data
 Detailed sightings and metadata are organized in our primary data file:
 *   [📊 UFO.xlsx](UFO.xlsx) - Includes timestamps, geographic coordinates, and observer notes.
-*   [☁️ Google Drive Cloud Archive](https://drive.google.com/drive/folders/1iHlmKCDCoaw8Ehm-t9OXC7WsC10czZBi?usp=sharing) - Extended repository of research documents, reports, and multimedia.
 
 ---
 <div align="center">
