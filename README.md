@@ -47,6 +47,7 @@ A collection of visual evidence captured during various sightings.
 ## 📊 Research & Data
 Detailed sightings and metadata are organized in our primary data file:
 *   [📊 UFO.xlsx](UFO.xlsx) - Includes timestamps, geographic coordinates, and observer notes.
+*   [☁️ Google Drive Cloud Archive](https://drive.google.com/drive/folders/1iHlmKCDCoaw8Ehm-t9OXC7WsC10czZBi?usp=sharing) - Extended repository of research documents, reports, and multimedia.
 
 ---
 <div align="center">
