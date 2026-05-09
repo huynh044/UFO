@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" alt="UFO Research Banner" width="100%">
+  <img src="images/ufo.png" alt="UFO Research Banner" width="100%">
 
   # 🛸 UFO PHENOMENA ARCHIVE
   
@@ -38,14 +38,12 @@ Below is a featured piece of documented footage from official archives.
 A collection of visual evidence captured during various sightings.
 
 <div align="center">
-  <img src="images/ufo.png" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" /><br/>
-  <b>Visual Capture: ufo.png</b>
+  <img src="images/255-GS-65-107.jpg" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" /><br/>
 </div>
 
-### 🔍 High-Resolution Raw Data (.TIF)
-The following files are provided in raw TIFF format for detailed spectral and digital forensic analysis.
-*   [📄 Archive Image: 255-GS-65-107.tif](images/255-GS-65-107.tif)
-*   [📄 Archive Image: 255-GS-65-108.tif](images/255-GS-65-108.tif)
+<div align="center">
+  <img src="images/255-GS-65-108.jpg" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" /><br/>
+</div>
 
 ## 📊 Research & Data
 Detailed sightings and metadata are organized in our primary data file:
